@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  mobileserviceProvider.cpp
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  mobileserviceProvider.vcxproj -> G:\mobileserviceProvider1\mobileserviceProvider\Debug\mobileserviceProvider.exe
+  mobileserviceProvider.vcxproj -> G:\mobileserviceProvider1\mobileserviceProvider\Debug\mobileserviceProvider.pdb (Full PDB)
